@@ -5,5 +5,19 @@ source_metadata:
   title: 'མདོ་དབུས་མཐོ་སྒང་གི་རི་དྭགས་རྩ་ཆེན་སྐོར།
 
     '
-  volume: ''
+  volume:
+    b8cc0bccd4424432b34d188a2dfdd915:
+      image_group_id: I2PD20304
+      title: Volume 1 of mdo dbus mtho sgang gi ri dwags rtsa chen skor/
+      volume_number: 1
+      total_pages: 262
   author: ''
+ebook_metadata:
+  title: 'མདོ་དབུས་མཐོ་སྒང་གི་རི་དྭགས་རྩ་ཆེན་སྐོར།
+
+    '
+  author: ''
+  sku: P008106
+  cover: cover.jpg
+  layers:
+  - pagination
