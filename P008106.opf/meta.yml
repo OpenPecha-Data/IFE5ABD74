@@ -1,17 +1,18 @@
-id: opecha:P008106
+id: P008106
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD19107
   title: 'མདོ་དབུས་མཐོ་སྒང་གི་རི་དྭགས་རྩ་ཆེན་སྐོར།
 
     '
-  volume:
+  author: ''
+  volumes:
     b8cc0bccd4424432b34d188a2dfdd915:
       image_group_id: I2PD20304
       title: Volume 1 of mdo dbus mtho sgang gi ri dwags rtsa chen skor/
       volume_number: 1
       total_pages: 262
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: 'མདོ་དབུས་མཐོ་སྒང་གི་རི་དྭགས་རྩ་ཆེན་སྐོར།
 
